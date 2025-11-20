@@ -1,5 +1,5 @@
 Rafael Franck (RM550875); 
-Gabriela Trevisan (RM99500);
+Gabriela Trevisan (RM99500)
 Eduardo Araújo (RM99758);
 
 ## WorkWell IoT – Estação de Bem-Estar para o Futuro do Trabalho
