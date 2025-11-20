@@ -1,4 +1,3 @@
-https://drive.google.com/file/d/1uNR6tV9OHQdWZrjAYETZVNBj819WF7HK/view?usp=sharing
 # 🌡️ WorkWell IoT – Estação de Bem-Estar
 
 > **Global Solution 2025 (FIAP)** > Sistema inteligente com ESP32 para monitoramento de conforto ambiental e saúde no home office.
@@ -110,11 +109,10 @@ Ao rodar, o dispositivo envia periodicamente um JSON para o tópico MQTT:
 ## 📸 Circuito e Diagrama
 Abaixo, o esquema de ligação utilizado no projeto:
 
-<img width="958" height="825" alt="Diagrama do Circuito WorkWell IoT" src="https://github.com/user-attachments/assets/a57b1df0-e329-4579-ac46-3b45bdba210a" />
+<img width="800" height="689" alt="image" src="https://github.com/user-attachments/assets/f18e45e5-0567-43c2-9d62-58c8505373a0" />
 
 ---
 
 ## 🎥 Evidência de Funcionamento
 Confira o vídeo de demonstração do funcionamento do circuito e da integração MQTT:
-
-🔗 Assista ao vídeo no YouTube
+🔗 **[Assista ao vídeo no GoogleDrive](https://drive.google.com/file/d/14Q5jP9UzxflTX27oOjZNPT0GIFmHNdqm/view?usp=sharing)**
