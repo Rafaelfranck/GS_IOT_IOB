@@ -115,4 +115,5 @@ Abaixo, o esquema de ligação utilizado no projeto:
 
 ## 🎥 Evidência de Funcionamento
 Confira o vídeo de demonstração do funcionamento do circuito e da integração MQTT:
+
 🔗 **[Assista ao vídeo no GoogleDrive](https://drive.google.com/file/d/14Q5jP9UzxflTX27oOjZNPT0GIFmHNdqm/view?usp=sharing)**
