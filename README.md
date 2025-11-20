@@ -124,6 +124,8 @@ O WorkWell IoT é um projeto crucial que contribui diretamente para o futuro do 
 Em um mundo cada vez mais remoto e digital, esta solução torna o ambiente de trabalho **mais seguro, saudável e inteligente.
 
 ### 7. Imagem do circuito
+<img width="958" height="825" alt="image" src="https://github.com/user-attachments/assets/a57b1df0-e329-4579-ac46-3b45bdba210a" />
+
 
 
 ### 8. Link do wokwi
